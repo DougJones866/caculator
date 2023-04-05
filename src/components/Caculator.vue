@@ -106,7 +106,9 @@ export default {
   grid-column: 1 /5;
   background-color: gray;
   margin-bottom: 15px;
-  border-bottom:solid thin #abc4ff
+  border-bottom:solid thin #abc4ff;
+  text-align: right;
+  
 }
 
 .zero {
